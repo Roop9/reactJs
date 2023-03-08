@@ -1,0 +1,19 @@
+.home{
+    padding: 15px;
+}
+
+.home__main{
+    display: flex;
+}
+
+.home__left{
+    flex:0.5
+}
+
+.home__right{
+    flex:0.5
+}
+
+.home__info{
+    padding: 10px;
+}

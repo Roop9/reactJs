@@ -1,0 +1,12 @@
+.awards{
+    margin-bottom: 5px;
+}
+
+.awards > h4, .awards > p{
+    letter-spacing: 1px;
+    margin-bottom: 5px;
+}
+
+.awards > p{
+    font-size: 12px;
+}

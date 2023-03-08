@@ -1,0 +1,14 @@
+.heading{
+    display: flex;
+    place-items: center;
+    margin-bottom: 10px;
+}
+
+.heading > h3{
+    letter-spacing: 1px;
+}
+
+.heading > svg{
+    width:25px;
+    margin-right: 10px;
+}

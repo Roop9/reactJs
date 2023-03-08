@@ -1,0 +1,14 @@
+.language{
+    margin-bottom: 10px;
+}
+
+.language__body{
+    display: flex;
+    width:150px;
+    justify-content: space-between;
+}
+
+.language__body > p {
+    text-align: left;
+    font-size: 14px;
+}

@@ -1,0 +1,21 @@
+.login{
+    display: flex;
+    justify-content: center;
+    place-items: center;
+}
+
+.login__body{
+    width:500px;
+    padding: 20px;
+    display: flex;
+    flex-direction: column;
+    border: solid 1px black;
+}
+
+.input-text{
+    width: 95%;
+    padding: 10px;
+    margin-bottom: 2%;
+    border: solid gray 1px;
+    border-radius: 5px;
+}

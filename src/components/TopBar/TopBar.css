@@ -1,0 +1,37 @@
+.topbar{
+    display: flex;
+    padding: 15px;
+    justify-content: space-between;
+    place-items: center;
+    background-color: #8D93ED;
+    color:#FFF;
+}
+
+.profile__img{
+    width:200px;
+    border:solid 1px white;
+    border-radius: 50%;
+}
+
+.profile__header{
+    letter-spacing: 1px;
+}
+
+.profile__intersection{
+    margin: 10px 0 10px 0;
+}
+
+.profile__details{
+    width:300px;
+}
+
+.profile__section{
+    display: flex;
+    place-items: center;
+    margin-bottom: 10px;
+}
+
+.profile__section > svg{
+    width: 20px;
+    margin-right: 10px;
+}
